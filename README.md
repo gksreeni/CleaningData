@@ -3,9 +3,11 @@ README file for the "Getting and Cleaning Data Project"
 
 This directory contains the following files:
 
-*run_analysis.R
-*CodeBook.md
-*tidyData.txt
+**run_analysis.R**
+
+**CodeBook.md**
+
+**tidyData.txt**
 
 
 
